@@ -1,0 +1,25 @@
+button {
+    border-radius: 20px;
+    color: black;
+    background-color: #4ADFD0;
+    border-color: black;
+    height: 50px;
+    width: 100px;
+    font-weight: bold;
+    display: block;
+
+}
+.square-divs {
+    background-color: black;
+    display: block;
+    height: 100px;
+    width: 100px;
+    margin: 20px;
+    float: left;
+    text-align: center;
+}
+
+h3 {
+    color: white;
+    padding: 15px;    
+}
